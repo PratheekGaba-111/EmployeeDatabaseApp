@@ -74,3 +74,5 @@ Or run directly in your IDE (like IntelliJ IDEA).
 - **View by ID**: Get details of an employee by ID.
 - **Update Employee**: Modify an existing employee’s details.
 - **Delete Employee**: Remove an employee from the database.
+
+💻 Made with ❤️ & ☕ by Pratheek Gaba
